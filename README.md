@@ -1,7 +1,7 @@
-# SpaceX Rocket Landing Prediction
+# 🚀 SpaceX Rocket Landing Prediction
 ## Predicting First-Stage Rocket Landing Success
 
-### 🚀 Project Overview
+### Project Overview
 Goal: Predict whether SpaceX’s Falcon 9 first stage will successfully land for reuse, based on historical launch data.
 Key Question: "Can we identify factors that maximize rocket reusability?"
 
